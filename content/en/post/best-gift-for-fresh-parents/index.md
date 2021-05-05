@@ -28,7 +28,7 @@ image:
   preview_only: false
 
 authors:
-- Viktoria Iljin
+- admin
 
 tags:
 - newborn photosession
@@ -36,8 +36,7 @@ tags:
 categories:
 - newborn
 ---
-
-No wonder they say that the best gift is the one that a person cannot buy for himself.
+## No wonder they say that the best gift is the one that a person cannot buy for himself.
 
 {{< figure src="./best-gift-for-fresh-parents-1.jpg" title="Newborn photosession in Tallinn" >}}
 
