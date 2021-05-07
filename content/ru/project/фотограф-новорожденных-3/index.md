@@ -1,9 +1,8 @@
 ---
 title: Съёмка новорожденных в студии в Таллинне
-summary: beebipoiss, 10 päeva uus
+summary: мальчик, 10 дней
 tags:
-- kõik
-- rekvisiidis 
+- реквизит 
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

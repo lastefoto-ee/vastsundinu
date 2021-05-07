@@ -2,7 +2,6 @@
 title: Фотосессия новорожденных
 summary: девочка, 9 дней
 tags:
-- все
 date: "2019-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: все
-    tag: все
+    tag: "*"
   - name: бинбег
     tag: бинбег
   - name: обмотка 

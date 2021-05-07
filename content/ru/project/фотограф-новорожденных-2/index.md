@@ -1,10 +1,9 @@
 ---
 title: Съёмка новорожденных в студии
-summary: beebipoiss, 11 päeva uus
+summary: мальчик, 11 дней
 tags:
-- kõik
-- mähitud 
-- rekvisiidis
+- обмотка 
+- реквизит
 date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
