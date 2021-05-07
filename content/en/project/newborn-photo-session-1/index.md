@@ -2,7 +2,6 @@
 title: Newborn photo session
 summary: babygirl, 35 days new
 tags:
-- all
 - wrapped 
 - beanbag
 date: "2020-10-15T00:00:00Z"

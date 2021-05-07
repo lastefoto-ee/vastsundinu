@@ -2,7 +2,6 @@
 title: Newborn photo
 summary: babyboy, 10 days new
 tags:
-- all
 - props 
 date: "2021-02-01T00:00:00Z"
 

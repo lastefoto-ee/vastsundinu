@@ -2,7 +2,6 @@
 title: Newborn photo session
 summary: babyboy, 8 days new
 tags:
-- all
 - beanbag
 date: "2021-01-04T00:00:00Z"
 

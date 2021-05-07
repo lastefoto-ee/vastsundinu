@@ -2,7 +2,6 @@
 title: Newborn photosession
 summary: babygirl, 11 days new
 tags:
-- all
 - wrapped 
 - beanbag
 date: "2021-01-28T00:00:00Z"

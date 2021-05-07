@@ -2,7 +2,6 @@
 title: Newborn photo session
 summary: twins, 7 days new
 tags:
-- all
 - twins 
 - beanbag
 date: "2019-12-11T00:00:00Z"

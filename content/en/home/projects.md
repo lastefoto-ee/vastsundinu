@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: all
-    tag: all
+    tag: "*"
   - name: beanbag
     tag: beanbag
   - name: wrapped 

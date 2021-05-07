@@ -2,7 +2,6 @@
 title: Newborn photo session
 summary: twins, 15 days new
 tags:
-- all
 - wrapped 
 - beanbag
 - twins

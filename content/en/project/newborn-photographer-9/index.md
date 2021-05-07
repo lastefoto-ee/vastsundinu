@@ -2,7 +2,6 @@
 title: Newborn photo
 summary: babygirl, 11 days new
 tags:
-- all
 - wrapped 
 - beanbag
 - twins

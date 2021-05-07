@@ -2,7 +2,6 @@
 title: Newborn photosession
 summary: babygirl, 9 days new
 tags:
-- all
 date: "2019-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,6 @@
 title: Newborn photosession
 summary: babygirl, 12 days new
 tags:
-- all
 - props
 date: "2020-07-30T00:00:00Z"
 

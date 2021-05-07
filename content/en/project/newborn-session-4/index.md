@@ -2,7 +2,6 @@
 title: Newborn session
 summary: babyboy, 7 days new
 tags:
-- all
 - beanbag
 - props
 date: "2020-10-17T00:00:00Z"
