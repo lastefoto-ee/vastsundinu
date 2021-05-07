@@ -2,7 +2,6 @@
 title: Vastsündinud beebi pildistamine
 summary: beebitüdruk, 12 päeva uus
 tags:
-- kõik
 - rekvisiidis
 date: "2020-07-30T00:00:00Z"
 

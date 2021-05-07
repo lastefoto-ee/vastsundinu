@@ -2,7 +2,6 @@
 title: Vastsündinu fotosessioon
 summary: beebitüdruk, 12 päeva uus
 tags:
-- kõik
 - mähitud 
 - beanbagil
 date: "2020-07-30T00:00:00Z"

@@ -2,7 +2,6 @@
 title: Vastsündinu sessioon
 summary: beebitüdruk, 35 päeva uus
 tags:
-- kõik
 - mähitud 
 - beanbagil
 date: "2020-10-15T00:00:00Z"

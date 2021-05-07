@@ -2,7 +2,6 @@
 title: Vastsündinu pildistamine
 summary: beebitüdruk, 35 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2021-03-15T00:00:00Z"
 

@@ -2,7 +2,6 @@
 title: Vastsündinu fotosessioon
 summary: beebipoiss, 10 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2021-02-01T00:00:00Z"
 

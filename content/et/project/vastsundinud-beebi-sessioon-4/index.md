@@ -2,7 +2,6 @@
 title: Vastsündinud beebi sessioon
 summary: beebitüdruk, 11 päeva uus
 tags:
-- kõik
 - mähitud 
 - beanbagil
 - kaksikud

@@ -2,7 +2,6 @@
 title: Vastsündinu fotograafia
 summary: kaksikud, 7 päeva uus
 tags:
-- kõik
 - kaksikud 
 - beanbagil
 date: "2019-12-11T00:00:00Z"

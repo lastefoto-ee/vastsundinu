@@ -2,7 +2,6 @@
 title: Vastsündinud beebi sessioon
 summary: beebipoiss, 11 päeva uus
 tags:
-- kõik
 - rekvisiidis
 date: "2020-08-22T00:00:00Z"
 

@@ -2,7 +2,6 @@
 title: Vastsündinu pildistamine
 summary: beebipoiss, 8 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2021-01-04T00:00:00Z"
 

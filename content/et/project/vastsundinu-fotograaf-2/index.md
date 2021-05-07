@@ -2,7 +2,6 @@
 title: Vastsündinu fotograafia
 summary: beebipoiss, 11 päeva uus
 tags:
-- kõik
 - mähitud 
 - rekvisiidis
 date: "2020-08-22T00:00:00Z"

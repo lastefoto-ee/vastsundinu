@@ -2,7 +2,6 @@
 title: Vastsündinud beebi sessioon
 summary: beebipoiss, 7 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2020-10-17T00:00:00Z"
 

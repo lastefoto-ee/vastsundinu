@@ -2,7 +2,6 @@
 title: Vastsündinud beebi pildistamine
 summary: beebitüdruk, 11 päeva uus
 tags:
-- kõik
 - mähitud 
 - beanbagil
 date: "2021-01-28T00:00:00Z"

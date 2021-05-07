@@ -2,7 +2,6 @@
 title: Vastsündinu sessioon
 summary: kaksikud, 15 päeva uus
 tags:
-- kõik
 - mähitud 
 - beanbagil
 - kaksikud
