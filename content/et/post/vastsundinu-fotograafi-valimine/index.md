@@ -33,9 +33,12 @@ authors:
 
 tags:
 - vastsündinu fotograaf
+- vastsündinu fotosessioon
+- vastsündinu sessioon
+- vastsündinu pildistamine
 
 categories:
-- vastsündinud beebi
+- vastsündinud
 ---
 
 Vastsündinu fotograafi valimine - on päris oluline asi. Vastsündinu pildistamise turg kasvab väga kiiresti ja vastsündinu fotograafe on väga palju. Kuidas teha õige valiku?
