@@ -11,23 +11,23 @@ header:
   caption: ""
   image: ""
 ---
-Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebikeskkonnas www.vastsündinu.ee Kauba(de) ostmisel.
+Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebikeskkonnas https://www.lastefoto.ee Kauba(de) ja/või Teenus(te)e ostmisel.
 
 ## Definitsioonid
 
-1.1 Ostja - registreeritud kasutaja, ehk kasutaja kes ostis Kauba.
+1.1 Ostja - registreeritud kasutaja, ehk kasutaja kes ostis Kauba ja/või Teenust.
 
-1.2 Boonus Meedia OÜ (registrikood 11268326), edaspidi Ettevõte - vahendaja Fotograafi ja Ostjate vahel Kauba(de) ostmisel.
+1.2 Boonus Meedia OÜ (registrikood 11268326), edaspidi Ettevõte - vahendaja Fotograafi ja Ostjate vahel Kauba(de) ja/või Teenus(te)e ostmisel.
 
-1.3 Fotograaf - Viktoria Iljin - https://www.lastefoto.ee fotograaf, kes vastutab Ostja ees kõigi kaupadega seotud küsimuste eest.
+1.3 Fotograaf - Viktoria Iljin - https://www.lastefoto.ee fotograaf, kes vastutab Ostja ees kõigi Kauba(de)ga ja/või Teenus(te)e seotud küsimuste eest.
 
-1.4 Müügileping - Ettevõtte vahendusel Ostja ja Fotograafi vahel sõlmitud leping, mis kinnitab Kauba(de) ostmist.
+1.4 Müügileping - Ettevõtte vahendusel Ostja ja Fotograafi vahel sõlmitud leping, mis kinnitab Kauba(de) ja/või Teenus(te)e ostmist.
 
-1.5 Kaup - e-poes https://www.vastsündinu.ee müüdav toode.
+1.5 Kaup - e-poes https://www.lastefoto.ee müüdav toode.
 
-1.6 Teenus - e-poes https://www.vastsündinu.ee tellitud fototeenus.
+1.6 Teenus - e-poes https://www.lastefoto.ee tellitud fototeenus.
 
-1.7 Veebisait - Ettevõtte poolt toodetud ja hallatav keskkond Kauba(de) ostmiseks.
+1.7 Veebisait - Ettevõtte poolt toodetud ja hallatav keskkond Kauba(de) ja/või Teenus(te)e ostmiseks.
 
 ## Kauba(de) ostmine ja teenus(t)e tellimine
 
@@ -142,6 +142,8 @@ Soovi korral toimetatakse kaup Ostjale pakiautomaadiga või kulleriga. Sellisel 
 6.2 Ostjal ja teistel isikutel ei ole ilma Ettevõte eelneva kirjaliku nõusolekuta õigust Veebisaiti ja selle koostisosi mistahes viisil kopeerida, levitada, edastada, tõlkida, lülitada teistesse andmebaasidesse, teha väljavõtteid jms viisil kasutada.
 
 6.3 Ostja või muu isiku poolt Veebisaidi või selle koosseisu kuuluvate teoste ilma Ettevõte eelneva kirjaliku nõusolekuta kasutamine või neile viide on õigusvastane ja toob endaga kaasa seaduses ettenähtud vastutuse ja kohustuse hüvitada seadusvastase tegevusega tekituatud kahju ja saamata jäänud tulu.
+
+6.4 Veebisaidil kasutatav muusika https://www.bensound.com. 
 
 ## Lõppsätted
 

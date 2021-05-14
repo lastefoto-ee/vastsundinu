@@ -11,22 +11,22 @@ header:
   caption: ""
   image: ""
 ---
-These terms of service are valid for the purchase of Products in the https://www.vastsündinu.ee online environment between OÜ Boonus Meedia and the Buyer.
+These terms of service are valid for the purchase of the Goods and/or Services in the https://www.lastefoto.ee online shop between OÜ Boonus Meedia and the Buyer.
 
 ## Definitions
-1.1 Buyer is a registered user, a user who bought a product.
+1.1 Buyer is a registered user, a user who bought the Goods and/or Services.
 
-1.2 Boonus Meedia OÜ, registration code 11268326, hereinafter the Company is an intermediary between the Photographer and the Buyers when purchasing the Goods.
+1.2 Boonus Meedia OÜ, registration code 11268326, hereinafter the Company is an intermediary between the Photographer and the Buyers when purchasing the Goods and/or Services.
 
-1.3 The Photographer - LasteFoto.ee photographer Viktoria Iljin - the person responsible to the Buyer of the Goods for all issues related to the purchase of the Goods.
+1.3 The Photographer - https://www.lastefoto.ee photographer Viktoria Iljin - the person responsible to the Buyer of the Goods and/or Services for all issues related to the purchase of the Goods and/or Services.
 
-1.4 Sales and Purchase Agreement - an agreement concluded between the Buyer and the Photographer through the Company, which confirms the purchase of the goods.
+1.4 Sales and Purchase Agreement - an agreement concluded between the Buyer and the Photographer through the Company, which confirms the purchase of the Goods and/or Services.
 
-1.5 Product - a product sold in the online store at https://www.vastsündinu.ee
+1.5 Product - a product sold in the online shop at https://www.lastefoto.ee
 
-1.6 Service - Photo service, which can be purchased in the online store at https://www.vastsündinu.ee
+1.6 Service - photo service, which can be purchased in the online shop at https://www.lastefoto.ee
 
-1.7 Website is an environment for the sale of Products created and operated by the Company.
+1.7 Website is an environment for the sale of Products and Services created and operated by the Company.
 
 ## Buying Products and Services
 2.1 The Company owns and operates the Website through which the Buyer and the Photographer can enter into sales contracts between themselves, i.e. The Buyer can purchase the Product(s).
@@ -136,6 +136,8 @@ If desired, the Goods are delivered to the Buyer through the postbox or courier.
 6.2 The Buyer and other persons may not copy, distribute, transfer, translate, include in any other database, take extracts or otherwise use the Website and its components without the prior written consent of the Company.
 
 6.3 Using or linking the Buyer or any other person to the Website or any of its works without the prior written consent of the Company is illegal and entails legal liability and obligation to compensate for damage and loss of profit caused by illegal activity.
+
+6.4 Music on the website https://www.bensound.com.
 
 ## Final statements
 7.1 The Terms of Service between the Company and the Buyer come into effect from the moment the Buyer has given the appropriate electronic confirmation of his consent to these Terms of Service either when purchasing the Goods or when registering as a regular customer.
