@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: photosession of a newborn on a posing pillow (beanbag), 7 processed digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all photos in individually designed packaging, processing of additional photos 10 € / photo
+- description: photo session of a newborn on a posing pillow (beanbag), 7 digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 10 € / photo
   icon: camera-retro
   icon_pack: fas
-  name: Package S 160€
-- description: photosession of a newborn on a posing pillow (beanbag) and in the props, 15 processed digital photos,family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all photos in individually designed packaging, processing of additional photos 9 € / photo
+  name: NEWBORN S 160€
+- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 15 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 9 € / photo
   icon: camera-retro
   icon_pack: fas
-  name: Package M 250€
-- description: photo ession of a newborn on a posing pillow (beanbag) and in the props, 25 processed digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all photos in individually designed packaging, processing of additional photos 8 € / photo
+  name: NEWBORN M 250€
+- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 25 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 8 € / photo
   icon: camera-retro
   icon_pack: fas
-  name: Package L 385€
+  name: NEWBORN L 385€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
