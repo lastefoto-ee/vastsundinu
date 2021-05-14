@@ -44,19 +44,17 @@ categories:
 Kõigil vastsündinu fotograafidel on lemmikpoos, millesse nad kõige sagedamini oma pisikeseid modelle panevad.
 Ja ma pole erand: minu lemmikpoos - kõhu peal.
 
-{{< figure src="./vastsundinu-pildistamine-1.jpg" title="Beebi fotosessioon Tallinnas" >}}
+{{< figure src="./vastsundinu-pildistamine-1.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 
 Meeletult puudutav, südanthaarava läbipaindega seljas ja jalad, mis on kokku pandud "lehvisse", see poos sobib ideaalselt nii lähedaste kui ka kaugemate kaadrite jaoks ... Vanemad valivad printimiseks kõige sagedamini just need kaadrid.
 
-{{< figure src="./vastsundinu-pildistamine-2.jpg" title="Beebi fotosessioon" >}}
+{{< figure src="./vastsundinu-pildistamine-2.jpg" title="Vastsündinu fotosessioon" >}}
 
-Kuid vaatamata näilikule loomulikkusele vahepeal ei ole nii lihtne beebit "kõhu peale" poosi panna. Hüpertoonilisus, gaasivalu ja vastsündinu fotograafi ebapiisav kogemus võivad segada.
+Kuid vaatamata näilikule loomulikkusele vahepeal ei ole nii lihtne vastsündinud beebit "kõhu peale" poosi panna. Hüpertoonilisus, gaasivalu ja vastsündinu fotograafi ebapiisav kogemus võivad segada.
 Kuid mul õnnestub alati.
 
-{{< figure src="./vastsundinu-pildistamine-3.jpg" title="Beebi pildistamine stuudios" >}}
+{{< figure src="./vastsundinu-pildistamine-3.jpg" title="Vastsündinu pildistamine stuudios" >}}
 
 Kuid vastsündinu fotograafia ei salli fanatismi, see nõuab maksimaalset ettevaatust ja tundlikkust. Seega, kui beebi kolmandal katsel ei soovi "õpiku järgi" poseerida, siis ma ei nõua, vaid otsin võimalust, mis sobib meile mõlemale. Pealegi "kõhu peal" poos on igas tõlgenduses ilus. ♥ ️
 
-{{< figure src="./vastsundinu-pildistamine-4.jpg" title="Beebi fotosessioon Tallinnas" >}}
-
-[Beebi fotosessioon: mälestuste värv](https://www.lastefoto.ee/post/vastsundinu-fotosessioon-malestuse-varv-vastsundinu-fotograafi-soovitused/)
+{{< figure src="./vastsundinu-pildistamine-4.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
