@@ -60,3 +60,5 @@ It is especially cool when it turns out to connect the elbow with the bent knee.
 But photography of newborns does not tolerate fanaticism, it requires maximum care and sensitivity. Therefore, if the baby from my third attempt does not fit into posing "according to the book", then I do not insist, but I am looking for an option that suits both of us. Moreover, the "on the tummy" pose is beautiful in any interpretation. ♥ ️
 
 {{< figure src="./newborn-session-4.jpg" title="Newborn session in the studio of Tallinn" >}}
+
+[How to choose a newborn photographer](https://www.lastefoto.ee/en/post/how-to-choose-a-newborn-photographer/)
