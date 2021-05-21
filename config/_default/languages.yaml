@@ -6,9 +6,9 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Vastsündinu fotograaf 
+  title: Vastsündinu pildistamine 
   params:
-    description: Vastündinu fotograaf Tallinnas - Viktoria Iljin
+    description: Vastündinu pildistamine Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
