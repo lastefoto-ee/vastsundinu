@@ -94,7 +94,8 @@ item:
   organization: "Олеся Ковальчук"
   organization_url: "https://www.lastefoto.ee/ru/olesya-kovalchuk-1/"
   title: "Newborn Photography"
-  url: "https://www.lastefoto.ee/ru/olesya-kovalchuk-1/"   
+  url: "https://www.lastefoto.ee/ru/olesya-kovalchuk-1/"
+   
 design:
   columns: '2' 
 ---
