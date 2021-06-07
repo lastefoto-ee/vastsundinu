@@ -145,6 +145,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
+  netlify_cms: false
   branch: master
   local_backend: false
 icon:
