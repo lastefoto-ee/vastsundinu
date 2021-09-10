@@ -20,11 +20,11 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: BEEBI S 185€
-- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 15 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 9€ / pilt.
+- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 17 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 9€ / pilt.
   icon: camera-retro
   icon_pack: fas
   name: BEEBI M 290€
-- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 25 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, fotoraamat 20 х 20 cm, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 8€ / pilt.
+- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 30 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, fotoraamat 20 х 20 cm, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 8€ / pilt.
   icon: camera-retro
   icon_pack: fas
   name: BEEBI L 410€
