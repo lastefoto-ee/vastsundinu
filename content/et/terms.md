@@ -1,6 +1,6 @@
 ---
 title: Kasutustingimused
-date: "2021-04-21T00:00:00+01:00"
+date: "2021-10-19T10:35:53+03:00"
 draft: false
 share: false
 commentable: false

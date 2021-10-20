@@ -3,7 +3,7 @@ title: Съёмка новорожденных в студии Таллинна
 summary: девочка, 19 дней
 tags:
 - бинбег
-date: "2020-10-21T00:00:00Z"
+date: "2021-10-19T09:28:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: instagram
-  icon_pack: fab
-  name: Instagram
-  url: https://instagram.com/lastefoto.ee
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""

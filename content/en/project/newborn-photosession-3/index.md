@@ -3,7 +3,7 @@ title: Newborn photosession
 summary: babyboy, 28 days new
 tags:
 - beanbag
-date: "2020-05-16T00:00:00Z"
+date: "2021-10-19T10:23:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
