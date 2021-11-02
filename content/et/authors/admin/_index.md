@@ -75,6 +75,8 @@ highlight_name: false
 
 Tere! Olen Viktoria - vastsündinu fotograaf Tallinnas, Eestis. 
 
+Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma vastsündinud beebisid, selle aja jooksul olen pildistanud üle 500 vastsündinut.
+
 Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
 
 Lapsed on nii loomulikud, siirad ja emotsionaalsed ning kasvavad liiga kiiresti. 
