@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession
+title: Newborn photo shoot
 summary: babygirl, 9 days new
 tags:
 date: "2021-10-19T10:24:53+03:00"

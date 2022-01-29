@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession
+title: Newborn photo shoot
 summary: babyboy, 11 days new
 tags:
 - wrapped 
