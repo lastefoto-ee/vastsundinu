@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Contact
-subtitle: 
+subtitle: Drop me a line to book a photo shoot
 
 content:
   # Automatically link email and phone or display as text?

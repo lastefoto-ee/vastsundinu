@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Контакт
-subtitle: 
+subtitle: напиши мне пару строк, чтобы забронировать фотосессию
 
 content:
   # Automatically link email and phone or display as text?

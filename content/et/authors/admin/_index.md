@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Vastsündinu fotograaf
+role: Beebiootuse ja beebifotograaf
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Vastsündinu fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
+bio: Beebiootuse ja beebifotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2021
+  - course: Pregnancy photo shoot in the style of Vogue
+    institution: bunaeva.com
+    year: 2021  
   - course: Koolitused rahvusvahelise newborn foorumis
     institution: newbornforum.ru
     year: 2020
@@ -46,18 +52,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
+- icon: envelope
+  icon_pack: fas
+  link: '/en/#contact'
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
-- icon: twitter
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/lastefoto
-- icon: github
+  link: https://www.facebook.com/LasteFoto/
+- icon: facebook-messenger
   icon_pack: fab
-  link: https://github.com/lastefoto-ee/
+  link: https://m.me/475649002567929
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/37255599546
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -72,21 +81,19 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis.
 
-Tere! Olen Viktoria - vastsündinu fotograaf Tallinnas, Eestis. 
+Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma beebisid, selle aja jooksul olen pildistanud üle 500 beebit.
 
-Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma vastsündinud beebisid, selle aja jooksul olen pildistanud üle 500 vastsündinut.
+Beebifotosessioon beebi esimesel kahel nädalal on imeline, võrreldamatu pildistamisviis. Elegantne minimalism, lihtsus ja lakoonilisus võimaldavad teil keskenduda ainult beebile. Sellised pildid puudutavad hingesügavust!
 
-Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
-
-Lapsed on nii loomulikud, siirad ja emotsionaalsed ning kasvavad liiga kiiresti. 
-
-Iga fotosessioon on minu jaoks ainulaadne kogemus. 
-
-Teie pere emotsioonide, vaimu ja soojuse jäädvustamiseks veedan teiega nii palju aega, kui vaja ilusate piltide saamiseks. 
-
-Parima tulemuse saamiseks kohanen delikaatselt beebi meeleolu peale .  
+Töötan oma beebidele spetsialiseerinud stuudios, mille olen varustanud, võttes arvesse kõiki beebide pildistamise omapärasid ja nüansse.
+Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
 
 Kohtumiseni fotosessioonil!
+
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="false" >}}
+
+_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
