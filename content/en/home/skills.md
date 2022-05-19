@@ -44,4 +44,4 @@ feature:
 #  description: "90%"
 ---
 ## 💕 Capture your baby's growth 👶 book a session today!
-Use Facebook Messenger/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546
+Use Facebook Messenger/WhatsApp button in the bottom right corner for faster answer or simply call +37255599546

@@ -27,6 +27,9 @@ education:
   courses:
   - course: Newborn Retreat
     institution: themilkyway.ca
+    year: 2022
+  - course: Newborn Retreat
+    institution: themilkyway.ca
     year: 2021
   - course: Pregnancy photo shoot in the style of Vogue
     institution: bunaeva.com
@@ -96,4 +99,4 @@ Kohtumiseni fotosessioonil!
 
 {{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="false" >}}
 
-_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
+_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast või helista +37255599546_

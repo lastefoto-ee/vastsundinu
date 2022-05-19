@@ -1,5 +1,5 @@
 ---
-title: Newborn photo session
+title: Newborn photo shoot
 summary: twins, 15 days new
 tags:
 - wrapped 

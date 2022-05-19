@@ -44,4 +44,4 @@ feature:
 #  description: "90%"
 ---
 ## 💕 Jäädvusta oma beebi kasvamist 👶 broneeri fotosessioon kohe
-Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546
+Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast või helista +37255599546

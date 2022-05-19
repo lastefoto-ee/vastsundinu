@@ -1,5 +1,5 @@
 ---
-title: Newborn photo session
+title: Newborn photo shoot
 summary: babygirl, 35 days new
 tags:
 - wrapped 
