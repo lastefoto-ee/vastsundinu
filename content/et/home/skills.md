@@ -27,7 +27,7 @@ feature:
 - description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 30 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, fotoraamat 20 х 20 cm, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 8€ / pilt.
   icon: birthday-cake
   icon_pack: fas
-  name: VASTSÜNDINU L 410€
+  name: VASTSÜNDINU L 440€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
