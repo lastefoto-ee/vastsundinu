@@ -5,7 +5,6 @@ subtitle: Подарок, который останется навсегда
 # Summary for listings and search engines
 summary: Лучший подарок молодым родителям
 
-
 # Link this post with a project
 projects: []
 
