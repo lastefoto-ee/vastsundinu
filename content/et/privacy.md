@@ -1,6 +1,6 @@
 ---
 title: Privaatsuspoliitika
-date: "2021-10-19T10:34:53+03:00"
+date: "2021-10-16T09:27:53+03:00"
 draft: false
 share: false
 commentable: false
@@ -15,7 +15,7 @@ Käesolevad Privaatsustingimused kohalduvad, kui Te kasutate veebikeskkonda http
 
 1. Privaatsuspoliitika sätestab reeglid isikuandmete kogumiseks, säilitamiseks ja töötlemiseks Boonus Meedia OÜ (edaspidi Ettevõte) teenuste kasutamisel.
 
-Fotod, mis https://www.lastefoto.ee fotograafi (edaspidi Fotograaf) poolt tehakse, näevad ja saavad ainult Fotograafi kliendid. Fotograafi poolt tehtud pildid lähevad Fotograafi arhiivi ja kliendile.
+Fotod, mis https://www.vastsündinu.ee fotograafi (edaspidi Fotograaf) poolt tehakse, näevad ja saavad ainult Fotograafi kliendid. Fotograafi poolt tehtud pildid lähevad Fotograafi arhiivi ja kliendile.
 Kui Fotograaf soovib kasutada kliendi pilte veebilehel või Fotograafi sotsiaalmeedia lehtedel, siis ainult sellisel juhul, kui on saanud kirjaliku loa kliendilt emaili teel või ankeedi täitmisel.
 
 2. Privaatsuspoliitika on mõeldud turvalisuse ja isikuandmete kaitse tagamiseks kasutajale, et kaitsta neid ebaseadusliku isikuandmete kasutamise eest.

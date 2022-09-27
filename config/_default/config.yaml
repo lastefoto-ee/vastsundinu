@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Vastsündinu # Website name
+title: Vastsündinu pildistamine # Website name
 baseurl: 'https://www.vastsündinu.ee/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Viktoria Iljin' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -23,6 +23,7 @@ removePathAccents: true
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+
 
 ############################
 ## ADVANCED

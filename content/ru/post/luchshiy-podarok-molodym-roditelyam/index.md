@@ -6,13 +6,14 @@ subtitle: Подарок, который останется навсегда
 summary: Лучший подарок молодым родителям
 
 # Link this post with a project
-projects: []
+projects: 
+  - novorozhdjonnye
 
 # Date published
-date: "2021-10-19T09:17:53+03:00"
+date: "2021-10-05T09:05:53+03:00"
 
 # Date updated
-lastmod: "2021-10-19T09:17:53+03:00"
+lastmod: "2021-10-05T09:05:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -28,15 +29,19 @@ image:
   placement: 2
   preview_only: false
 
+profile: false
+
 authors:
-- admin
+  - admin
 
 tags:
-- фотосессия новорожденного
+  - фотосессия новорожденного
+  - новорожденные
 
 categories:
-- новорожденные
+  - новорожденные
 ---
+
 Не зря говорят, что самый лучший подарок тот, который человек сам себе не купит.
 
 {{< figure src="./fotosessiya-novorozhdennogo-1.jpg" title="Фотосессия новорожденных в Таллинне" >}}

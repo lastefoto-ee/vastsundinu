@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
 title: Contact
 subtitle: Drop me a line to book a photo shoot
@@ -23,7 +23,7 @@ content:
       id: mleolzpy
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'

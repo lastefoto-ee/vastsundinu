@@ -6,21 +6,23 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Pregnancy and newborn photographer
+role: Newborn and pregnancy photographer
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: https://www.lastefoto.ee/
+  url: "https://www.vastsündinu.ee/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pregnancy and newborn photographer in Tallinn, Estonia.
+bio: Hello! I'm Viktoria, a newborn and maternity photographer from Tallinn, Estonia. I've been photographing babies since 2016.
 
 # Interests to show in About widget
 interests:
-- Newborn Photography
+- Newborn photography
+- Pregnancy photography
+- Maternity photography
 - Photoshop
-- Github
+- GitHub
 
 # Education to show in About widget
 education:
@@ -30,8 +32,8 @@ education:
     year: 2022
   - course: Newborn Retreat
     institution: themilkyway.ca
-    year: 2021
-  - course: Pregnancy photo shoot in the style of Vogue
+    year: 2021  
+  - course: Vogue style Pregnancy photo shoot
     institution: bunaeva.com
     year: 2021  
   - course: NewbornForum workshops
@@ -46,6 +48,9 @@ education:
   - course: Christmas newborn photography
     institution: ok-academy.ru
     year: 2018
+  - course: Children photography and post-production
+    institution: karina-kiel.com
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,7 +59,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/en/#contact'
+  link: '/en/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
@@ -85,6 +90,6 @@ Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mother
 
 See you at the photo session!
 
-{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.lastefoto.ee/en/project/newborn/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="/en/project/newborn/" cta_alt_new_tab="false" >}}
 
-_You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer or simply call +37255599546_
+_You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_

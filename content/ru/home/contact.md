@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Контакт
-subtitle: напиши мне пару строк, чтобы забронировать фотосессию
+title: Свяжись со мной
+subtitle: напиши пару строк, чтобы забронировать фотосессию
 
 content:
   # Automatically link email and phone or display as text?
@@ -23,7 +23,7 @@ content:
       id: mleolzpy
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'

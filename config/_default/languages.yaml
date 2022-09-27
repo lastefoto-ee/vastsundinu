@@ -6,75 +6,63 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Vastsündinu pildistamine 
+  title: LasteFotograaf
   params:
-    description: Vastündinu pildistamine Tallinnas - Viktoria Iljin
+    description: Vastündinu ja lapseootuse fotograaf Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
         url: '#about'
-        weight: 40
-      - name: Portfoolio 
+        weight: 30
+      - name: Portfoolio ja hinnad
         url: '#projects'
         weight: 10
-      - name: Hinnakiri
-        url: '#skills'
+      - name: Blogi
+        url: '#posts'
         weight: 20
       - name: Kontakt
         url: '#contact'
-        weight: 50
-      - name: Blogi
-        url: '#featured'
-        weight: 30
+        weight: 40
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Фотограф новорожденных
+  title: Виктория Ильин
   params:
-    description: Фотограф новорожденных в Таллинне - Виктория Ильин
+    description: Фотограф новорожденных и беременных в Таллинне - Виктория Ильин
   menu:  
     main:
       - name: Обо мне
         url: '#about'
-        weight: 40
-      - name: Портфолио 
+        weight: 30
+      - name: Портфолио и цены
         url: '#projects'
         weight: 10
-      - name: Цены
-        url: '#skills'
+      - name: Блог
+        url: '#posts'
         weight: 20
       - name: Контакт
         url: '#contact'
-        weight: 50
-      - name: Блог
-        url: '#featured'
-        weight: 30
+        weight: 40
 en:
   languageCode: en
   contentDir: content/en
-  title: Newborn photographer
+  title: Viktoria Iljin
   params:
-    description: Newborn photographer in Tallinn - Viktoria Iljin
+    description: Newborn and pregnancy photographer in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
         url: '#about'
-        weight: 40
-      - name: Portfolio
+        weight: 30
+      - name: Portfolio and prices
         url: '#projects'
         weight: 10
-      - name: Prices
-        url: '#skills'
+      - name: Blog
+        url: '#posts'
         weight: 20
       - name: Contact
         url: '#contact'
-        weight: 50
-      - name: Blog
-        url: '#featured'
-        weight: 30
-
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+        weight: 40
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

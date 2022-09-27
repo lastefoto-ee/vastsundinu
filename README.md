@@ -1,4 +1,7 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+<p align="center"><a href="https://www.vastsündinu.ee/" target="_blank" rel="noopener"><img src="https://www.vastsündinu.ee/3-lastefoto-ee.jpg" alt="Newborn photographer Viktoria Iljin"></a></p>
+
+# [Newborn photographer](https://www.vastsündinu.ee/) Viktoria Iljin
+<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
@@ -25,7 +28,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 * **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/academic.png)](https://wowchemy.com)
 
 ## Demo image credits
 

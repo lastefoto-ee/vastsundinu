@@ -6,16 +6,16 @@
 # Appearance
 
 theme: Strawberry
-day_night: true
-font: native
+day_night: false
+font: 'native'
 font_size: L
 
 # SEO
 
 site_type: LocalBusiness
 local_business_type: 'ProfessionalService'
-org_name: 'Vastsündinu fotograaf Viktoria Iljin'
-description: 'Vastündinu fotograaf Tallinnas - Viktoria Iljin'
+org_name: 'Fotograaf Viktoria Iljin'
+description: 'Vastündinu ja lapseootuse fotograaf Tallinnas - Viktoria Iljin'
 twitter: 'lastefoto'
 
 # Contact (edit or remove options as required)
@@ -23,7 +23,7 @@ twitter: 'lastefoto'
 email: lastefoto@gmail.com
 phone: 37255599546
 address:
-  street: Peterburi 46
+  street: Peterburi tee 46
   city: Tallinn
   region: Harjumaa
   postcode: '11415'
@@ -32,21 +32,17 @@ address:
 coordinates:
   latitude: '59.426760'
   longitude: '24.818860'
-directions: 'Sisenege büroohoonesse ja minge 5. korrusele tuppa 513. '
-office_hours:
+directions: 'Boonus Meedia OÜ (registrikood 11268326)'
+office_hours: ''
 appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/lastefoto'
   - icon: instagram
     icon_pack: fab
-    name: Instagram
+    name: 'viktoriailjin'
     link: 'https://www.instagram.com/viktoriailjin/'
   - icon: facebook
     icon_pack: fab
-    name: Facebook
+    name: 'LasteFoto'
     link: 'https://www.facebook.com/LasteFoto/'
 
 # Site header
@@ -62,9 +58,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '2006-01-02'
 time_format: '15:04'
-address_format: en-us
+address_format: de
 
 # Site features
 
@@ -77,22 +73,22 @@ privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
-  repo_branch: master
+  repo_branch: main
   editable:
     page: false
     post: false
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
-  project: false
+  project: true
   publication: true
   event: true
 reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -118,6 +114,7 @@ comments:
   provider: ''
   commentable:
     post: true
+    page: true
     book: true
     project: true
     publication: true
@@ -139,15 +136,13 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'G-57YYPCLMQ9'
-  google_tag_manager: ''
-  google_site_verification: 'JlmA0O0vtevWZDdcYTy3K22o9OzLC7V2_kvODSPa_68'
+  google_analytics: 'UA-111369930-1'
+  google_tag_manager: 'GTM-TC56VG7'
+  google_site_verification: 'rPODh7GdZ4rJqu3xUqF3-HbWR3dxQ_fHqdTmr7HlHBk'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
   netlify_cms: false
-  branch: master
-  local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false

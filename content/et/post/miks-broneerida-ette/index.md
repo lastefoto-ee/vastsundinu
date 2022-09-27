@@ -1,19 +1,19 @@
 ---
-title: Vastsündinu pildistamine - milleks tuleb fotosessiooni ette broneerida
-subtitle: Vastsündinud pildistamise varajane broneerimine
+title: Vastsündinu fotosessioon - milleks tuleb fotosessiooni ette broneerida
+subtitle: Vastsündinud fotosessiooni varajane broneerimine
 
 # Summary for listings and search engines
-summary: Vastsündinud pildistamise varajane broneerimine
+summary: Vastsündinud fotosessiooni varajane broneerimine
 
 # Link this post with a project
 projects: 
   - vastsündinud
 
 # Date published
-date: "2021-10-19T10:36:53+03:00"
+date: "2021-10-09T09:17:53+03:00"
 
 # Date updated
-lastmod: "2021-10-19T10:36:53+03:00"
+lastmod: "2021-10-09T09:17:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -29,39 +29,49 @@ image:
   placement: 2
   preview_only: false
 
+profile: false
+
 authors:
   - admin
 
 tags:
-  - vastsündinu pildistamine
+  - vastsündinu fotosessioon
   - vastsündinud
 
 categories:
   - vastsündinud
 
+gallery_item:
+- album: vastsundinu-fotosessioon
+  image: vastsundinu-fotosessioon-4.jpg
+  caption: Vastsündinu fotosessioon stuudios
+- album: vastsundinu-fotosessioon
+  image: vastsundinu-fotosessioon-5.jpg
+  caption: Vastsündinu fotosessioon Tallinnas
+- album: vastsundinu-fotosessioon
+  image: vastsundinu-fotosessioon-6.jpg
+  caption: Vastsündinu fotosessioon
 ---
-Soovitatav vanus vastsündinute pildistamiseks - beebi esimesed kaks elunädalat.
+Soovitatav vanus vastsündinute fotosessiooniks - beebi esimesed kaks elunädalat.
 
-{{< figure src="./vastsundinu-pildistamine-1.jpg" title="Vastsündinu sessioon Tallinnas" >}}
+{{< figure src="./vastsundinu-fotosessioon-1.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
 
 Enamasti vastsündinud beebid sel ajal
 
-🥰 magavad hästi
+🥰 magavad rohkem
 
 🥰 neid on lihtsam poseerida
 
-🥰 neil nahk on klaar 
+🥰 neil on klaar nahk
 
 🥰 gaasivalu veel ei ole
 
-{{< figure src="./vastsundinu-pildistamine-2.jpg" title="Vastsündinu pildistamine" >}}
+{{< figure src="./vastsundinu-fotosessioon-2.jpg" title="Vastsündinu pildistamine" >}}
 
-Muidugi võite proovida broneerida vastsündinu pildistamise beebi sündides (helistage esimesel võimalusel), kuid sel juhul on oht, et töökoormuse tõttu mul ei on aega kõik enne 14 päeva korraldada.
+Muidugi võite proovida broneerida vastsündinu fotosessiooni beebi sündides (helistage esimesel võimalusel), kuid sel juhul on oht, et töökoormuse tõttu mul ei on aega kõik enne 14 päeva korraldada.
 
-{{< figure src="./vastsundinu-pildistamine-3.jpg" title="Vastsündinu pildistamine Tallinnas stuudios" >}}
+{{< figure src="./vastsundinu-fotosessioon-3.jpg" title="Vastsündinu pildistamine Tallinnas stuudios" >}}
 
-Seetõttu soovitan teil tungivalt kavandada vastsündinu pildistamine TP-le (esialgne sünnikuupäev), siis on mul võrdluspunkt ning ilusate piltide võimalus suureneb märkimisväärselt!
+Seetõttu soovitan teil tungivalt kavandada fotosessioon TP-le (esialgne sünnikuupäev), siis on mul võrdluspunkt ning ilusate piltide võimalus suureneb märkimisväärselt!
 
-{{< figure src="./vastsundinu-pildistamine-4.jpg" title="Vastsündinu pildistamine" >}}
-
-[Vastsündinu fotosessioon - parim kingitus värsketele vanematele](https://www.lastefoto.ee/post/vastsundinu-fotosessioon-parim-kingitus-varsketele-vanematele/)
+{{< gallery album="vastsundinu-fotosessioon" >}}

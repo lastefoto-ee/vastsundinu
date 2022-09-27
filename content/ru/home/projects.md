@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 15
 
-title: Портфолио
-subtitle: 'вневременные и самые красивые фотографии новорожденных'
+title: Цены
+subtitle: и работы
 
 content:
   # Page type to display. E.g. project.
@@ -24,21 +24,10 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: все
-    tag: "*"
-  - name: бинбег
-    tag: бинбег
-  - name: обмотка 
-    tag: обмотка
-  - name: реквизит
-    tag: реквизит
-  - name: близнецы
-    tag: близнецы
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List

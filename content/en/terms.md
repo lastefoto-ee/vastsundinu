@@ -1,6 +1,6 @@
 ---
 title: Terms of service
-date: "2021-10-19T10:02:53+03:00"
+date: "2021-10-16T09:38:53+03:00"
 draft: false
 share: false
 commentable: false
@@ -11,20 +11,20 @@ header:
   caption: ""
   image: ""
 ---
-These terms of service are valid for the purchase of the Goods and/or Services in the https://www.lastefoto.ee online shop between OÜ Boonus Meedia and the Buyer.
+These terms of service are valid for the purchase of the Goods and/or Services in the https://www.vastsündinu.ee online shop between OÜ Boonus Meedia and the Buyer.
 
 ## Definitions
 1.1 Buyer is a registered user, a user who bought the Goods and/or Services.
 
 1.2 Boonus Meedia OÜ, registration code 11268326, hereinafter the Company is an intermediary between the Photographer and the Buyers when purchasing the Goods and/or Services.
 
-1.3 The Photographer - https://www.lastefoto.ee photographer Viktoria Iljin - the person responsible to the Buyer of the Goods and/or Services for all issues related to the purchase of the Goods and/or Services.
+1.3 The Photographer - https://www.vastsündinu.ee photographer Viktoria Iljin - the person responsible to the Buyer of the Goods and/or Services for all issues related to the purchase of the Goods and/or Services.
 
 1.4 Sales and Purchase Agreement - an agreement concluded between the Buyer and the Photographer through the Company, which confirms the purchase of the Goods and/or Services.
 
-1.5 Product - a product sold in the online shop at https://www.lastefoto.ee
+1.5 Product - a product sold in the online shop at https://www.vastsündinu.ee
 
-1.6 Service - photo service, which can be purchased in the online shop at https://www.lastefoto.ee
+1.6 Service - photo service, which can be purchased in the online shop at https://www.vastsündinu.ee
 
 1.7 Website is an environment for the sale of Products and Services created and operated by the Company.
 

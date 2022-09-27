@@ -6,21 +6,24 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Beebiootuse ja beebifotograaf
+role: Vastündinu ja lapseootuse fotograaf
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: https://www.lastefoto.ee/
+  url: "https://www.vastsündinu.ee/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Beebiootuse ja beebifotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
+bio: Vastündinu ja lapseootuse fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
 
 # Interests to show in About widget
 interests:
-- Fotograafia
+- Vastündinu fotograafia
+- Beebi fotograafia
+- Lapseootuse fotograafia
+- Vastündinu pildistamise koolitaja
 - Photoshop
-- Open-source
+- GitHub
 
 # Education to show in About widget
 education:
@@ -30,8 +33,8 @@ education:
     year: 2022
   - course: Newborn Retreat
     institution: themilkyway.ca
-    year: 2021
-  - course: Pregnancy photo shoot in the style of Vogue
+    year: 2021  
+  - course: Beebiootuse fotosessioon Vogue stiilis
     institution: bunaeva.com
     year: 2021  
   - course: Koolitused rahvusvahelise newborn foorumis
@@ -46,6 +49,9 @@ education:
   - course: Christmas newborn photography
     institution: ok-academy.ru
     year: 2018
+  - course: Lavastatud lastefotograafia ja art järeltöötlus
+    institution: karina-kiel.com
+    year: 2017
   - course: Newborn photography
     institution: ok-academy.ru/newbornphoto
     year: 2017
@@ -54,10 +60,11 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/en/#contact'
+  link: '/#contact'
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
@@ -84,19 +91,19 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis.
+Tere! Olen Viktoria - vastsündinud beebide ja lapseootuse fotograaf Tallinnas, Eestis.
 
-Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma beebisid, selle aja jooksul olen pildistanud üle 500 beebit.
+Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Juba pikka aega usaldavad emad mind oma vastsündinud beebisid, selle aja jooksul olen pildistanud üle 500 vastsündinut.
 
-Beebifotosessioon beebi esimesel kahel nädalal on imeline, võrreldamatu pildistamisviis. Elegantne minimalism, lihtsus ja lakoonilisus võimaldavad teil keskenduda ainult beebile. Sellised pildid puudutavad hingesügavust!
+Vastsündinu fotosessioon beebi esimesel kahel nädalal on imeline, võrreldamatu pildistamisviis. Elegantne minimalism, lihtsus ja lakoonilisus võimaldavad teil keskenduda ainult beebile. Sellised pildid puudutavad hingesügavust!
 
-Töötan oma beebidele spetsialiseerinud stuudios, mille olen varustanud, võttes arvesse kõiki beebide pildistamise omapärasid ja nüansse.
+Töötan oma vastsündinud beebidele spetsialiseerinud stuudios, mille olen varustanud, võttes arvesse kõiki vastsündinute pildistamise omapärasid ja nüansse.
 Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 
-Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
+Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios.
 
 Kohtumiseni fotosessioonil!
 
-{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="/project/vastsundinud/" cta_alt_new_tab="false" >}}
 
-_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast või helista +37255599546_
+_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
