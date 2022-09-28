@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Vastsündinu pildistamine # Website name
-baseurl: 'https://www.vastsündinu.ee/' # Website URL
-copyright: '© {year} Viktoria Iljin' # Footer text, e.g. '© {year} Me'
+baseurl: "https://www.xn--vastsndinu-eeb.ee/" # Website URL
+copyright: "© {year} Viktoria Iljin" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -24,7 +24,6 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
-
 ############################
 ## ADVANCED
 ############################
@@ -37,10 +36,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  event: "/talk/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
