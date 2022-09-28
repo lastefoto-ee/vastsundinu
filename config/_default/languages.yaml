@@ -6,9 +6,9 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Vastündinu pildistamine
+  title: Vastsündinu pildistamine
   params:
-    description: Vastündinu ja lapseootuse pildistamine Tallinnas - Viktoria Iljin
+    description: Vastsündinu ja lapseootuse pildistamine Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
