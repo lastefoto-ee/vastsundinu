@@ -8,7 +8,7 @@ baseurl: "https://www.xn--vastsndinu-eeb.ee/" # Website URL
 copyright: "© {year} Viktoria Iljin" # Footer text, e.g. '© {year} Me'
 
 ############################
-## LANGUAGE
+## L A N G U A G E
 ############################
 
 defaultContentLanguage: et
