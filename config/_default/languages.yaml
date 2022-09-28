@@ -6,64 +6,63 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: LasteFotograaf
+  title: Vastündinu pildistamine
   params:
-    description: Vastündinu ja lapseootuse fotograaf Tallinnas - Viktoria Iljin
+    description: Vastündinu ja lapseootuse pildistamine Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
-        url: '#about'
+        url: "#about"
         weight: 30
       - name: Portfoolio ja hinnad
-        url: '#projects'
+        url: "#projects"
         weight: 10
       - name: Blogi
-        url: '#posts'
+        url: "#posts"
         weight: 20
       - name: Kontakt
-        url: '#contact'
+        url: "#contact"
         weight: 40
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Виктория Ильин
+  title: Фотограф новорожденных
   params:
     description: Фотограф новорожденных и беременных в Таллинне - Виктория Ильин
-  menu:  
+  menu:
     main:
       - name: Обо мне
-        url: '#about'
+        url: "#about"
         weight: 30
       - name: Портфолио и цены
-        url: '#projects'
+        url: "#projects"
         weight: 10
       - name: Блог
-        url: '#posts'
+        url: "#posts"
         weight: 20
       - name: Контакт
-        url: '#contact'
+        url: "#contact"
         weight: 40
 en:
   languageCode: en
   contentDir: content/en
-  title: Viktoria Iljin
+  title: Newborn photography
   params:
     description: Newborn and pregnancy photographer in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
-        url: '#about'
+        url: "#about"
         weight: 30
       - name: Portfolio and prices
-        url: '#projects'
+        url: "#projects"
         weight: 10
       - name: Blog
-        url: '#posts'
+        url: "#posts"
         weight: 20
       - name: Contact
-        url: '#contact'
+        url: "#contact"
         weight: 40
-
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
