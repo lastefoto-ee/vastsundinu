@@ -11,7 +11,7 @@ role: Vastündinu ja lapseootuse fotograaf
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: "https://www.vastsündinu.ee/"
+  url: "https://www.lastefoto.ee/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Vastündinu ja lapseootuse fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
