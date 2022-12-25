@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebikeskkonnas https://www.vastsündinu.ee Kauba(de) ja/või Teenus(te)e ostmisel.
+Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebikeskkonnas https://www.lastefoto.ee Kauba(de) ja/või Teenus(te)e ostmisel.
 
 ## Definitsioonid
 
@@ -19,13 +19,13 @@ Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebik
 
 1.2 Boonus Meedia OÜ (registrikood 11268326), edaspidi Ettevõte - vahendaja Fotograafi ja Ostjate vahel Kauba(de) ja/või Teenus(te)e ostmisel.
 
-1.3 Fotograaf - Viktoria Iljin - https://www.vastsündinu.ee fotograaf, kes vastutab Ostja ees kõigi Kauba(de)ga ja/või Teenus(te)e seotud küsimuste eest.
+1.3 Fotograaf - Viktoria Iljin - https://www.lastefoto.ee fotograaf, kes vastutab Ostja ees kõigi Kauba(de)ga ja/või Teenus(te)e seotud küsimuste eest.
 
 1.4 Müügileping - Ettevõtte vahendusel Ostja ja Fotograafi vahel sõlmitud leping, mis kinnitab Kauba(de) ja/või Teenus(te)e ostmist.
 
-1.5 Kaup - e-poes https://www.vastsündinu.ee müüdav toode.
+1.5 Kaup - e-poes https://www.lastefoto.ee müüdav toode.
 
-1.6 Teenus - e-poes https://www.vastsündinu.ee tellitud fototeenus.
+1.6 Teenus - e-poes https://www.lastefoto.ee tellitud fototeenus.
 
 1.7 Veebisait - Ettevõtte poolt toodetud ja hallatav keskkond Kauba(de) ja/või Teenus(te)e ostmiseks.
 

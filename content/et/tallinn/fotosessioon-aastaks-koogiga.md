@@ -15,7 +15,7 @@ links:
   - icon_pack: fas
     icon: baby
     name: Beebi Esimine Eluaasta
-    url: 'https://www.vastsündinu.ee/project/esimene-eluaasta/'
+    url: 'https://www.lastefoto.ee/project/esimene-eluaasta/'
 
 weight: 4
 ---
@@ -45,7 +45,7 @@ Beebi esimese eluaasta jooksul me kohtume Teiega neli korda. Fotosessioonide teg
 {{< figure src="/tallinn/beebi-esimene-eluaasta-3.jpg" title="Beebi pildistamine Tallinna stuudios: beebi on kuus kuud vana" >}}
 {{< figure src="/tallinn/beebi-esimene-eluaasta-4.jpg" title="Cake smash fotosessioon Tallinnas: beebi on uheaastane" >}}
 
-{{< cta cta_text="💛 Telli esimese sünnipäeva fotosessioon kohe" cta_link="https://www.vastsündinu.ee/#contact" cta_new_tab="true" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.vastsündinu.ee/project/vastsundinud/" cta_alt_new_tab="true" >}}
+{{< cta cta_text="💛 Telli esimese sünnipäeva fotosessioon kohe" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="true" >}}
 
 _Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
 

@@ -11,11 +11,11 @@ header:
   caption: ""
   image: ""
 ---
-These Privacy Terms apply when using the web environment https://www.vastsündinu.ee. Your use of the web environment is considered your acceptance of these Privacy Policy.
+These Privacy Terms apply when using the web environment https://www.lastefoto.ee. Your use of the web environment is considered your acceptance of these Privacy Policy.
 
 1. The Privacy Policy sets out the rules for the collection, storage and processing of personal data when using the services of Boonus Meedia OÜ (hereinafter the Company).
 
-Photos taken by the photographer https://www.vastsündinu.ee (hereinafter the Photographer) can be seen and received only by the Photographer's clients. The photos taken by the photographer are sent to the photographer's archive and to the customer.
+Photos taken by the photographer https://www.lastefoto.ee (hereinafter the Photographer) can be seen and received only by the Photographer's clients. The photos taken by the photographer are sent to the photographer's archive and to the customer.
 If the Photographer wishes to use the client's images on the website or on the Photographer's pages in social networks, then only if he has received written permission from the client by e-mail or when filling out a questionnaire.
 
 2. This privacy policy is designed to ensure the safety and security of the user's personal data in order to protect it from unauthorized use.

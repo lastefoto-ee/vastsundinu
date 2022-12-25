@@ -8,7 +8,7 @@ tags:
 date: "2022-01-31T18:14:14+02:00"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://www.vastsündinu.ee/en/project/babys-first-year/"
+# external_link: "https://www.lastefoto.ee/en/project/babys-first-year/"
 
 image:
   caption: Baby's First Year by Viktoria Iljin
@@ -18,11 +18,11 @@ links:
   - icon_pack: fas
     icon: baby
     name: Baby's First Year
-    url: 'https://www.vastsündinu.ee/en/project/babys-first-year/'
+    url: 'https://www.lastefoto.ee/en/project/babys-first-year/'
   - icon_pack: fas
     icon: baby
     name: Newborn photography
-    url: 'https://www.vastsündinu.ee/en/project/newborn/'
+    url: 'https://www.lastefoto.ee/en/project/newborn/'
 
 url_code: ""
 url_pdf: ""

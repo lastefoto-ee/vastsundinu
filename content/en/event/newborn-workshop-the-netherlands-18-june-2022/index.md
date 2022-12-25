@@ -110,7 +110,7 @@ _A non refundable retainer of [300€](https://buy.stripe.com/28obMA2FH2pTbC08wE
 
 ### The workshop schedule
 
-![newborn-photosession-67](https://www.vastsündinu.ee/en/project/newborn/newborn-photosession-67.jpg)
+![newborn-photosession-67](https://www.lastefoto.ee/en/project/newborn/newborn-photosession-67.jpg)
 
 ## Day 1 
 
@@ -145,7 +145,7 @@ The first model will have a mini photo shoot without photographing by the partic
 **17:30** - Hugs and goodbyes
 
 
-![beebi-fotosessioon-126](https://www.vastsündinu.ee/en/project/babies/beebi-fotosessioon-126.jpg)
+![beebi-fotosessioon-126](https://www.lastefoto.ee/en/project/babies/beebi-fotosessioon-126.jpg)
 
 ## Day 2
 

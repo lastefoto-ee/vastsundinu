@@ -50,7 +50,7 @@ And I wanted the same cool photos for myself. So Marta and I decided to do a sim
 
 Do you want the same shots for yourself or for your grown-up baby?
 
-{{< cta cta_text="Book a photo  shoot" cta_link="https://www.vastsündinu.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book a photo  shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}
 
 {{< figure src="./photo-shoot-in-vogue-style-1.jpg" title="Photo shoot in Vogue style in Tallinn" >}}
 {{< figure src="./photo-shoot-in-vogue-style-2.jpg" title="Photo shoot in the studio" >}}

@@ -151,7 +151,7 @@ When choosing the duration of photo shooting, keep in mind that it takes time to
 It all depends on how you feel and how active you are. Some future mothers get tired quickly and need frequent rest. And there are those who have energy in full swing and they are ready for a long photo shoot. So when choosing the number of set-ups, be guided by yourself. On average, for an hour of photo shooting, it turns out to change 2-3 set-ups.
 
 # What clothes to choose for a photo shoot?
-It can be both business dresses and dresses made of thin fabrics, with lace, with a flying silhouette. Or maybe comfortable jeans, shorts, shirts, pajamas. It is important that you feel free and light in these clothes, then the photos will be natural. You can read more about the set-ups in the article [What to wear for a pregnancy photo shoot](https://www.vastsündinu.ee/en/post/what-to-wear-for-a-pregnancy-photoshoot/)
+It can be both business dresses and dresses made of thin fabrics, with lace, with a flying silhouette. Or maybe comfortable jeans, shorts, shirts, pajamas. It is important that you feel free and light in these clothes, then the photos will be natural. You can read more about the set-ups in the article [What to wear for a pregnancy photo shoot](https://www.lastefoto.ee/en/post/what-to-wear-for-a-pregnancy-photoshoot/)
 
 {{< gallery album="post-beebiootuse-fotosessioon-2 copy" >}}
 
@@ -178,4 +178,4 @@ Any! Accessories can be used in any photos! They are able to make the picture mo
 
 {{< gallery album="post-beebiootuse-fotosessioon-4" >}}
 
-{{< cta cta_text="Book your photo shoot" cta_link="https://www.vastsündinu.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book your photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}

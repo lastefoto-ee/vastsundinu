@@ -95,4 +95,4 @@ categories:
 
 {{< figure src="./cake-smash-fotosessiya-7.jpg" title="Фотосессия Cake Smash в студии в Таллинне" >}}
 
-{{< cta cta_text="Записаться на фотосессию Cake Smash" cta_link="https://www.vastsündinu.ee/ru/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Записаться на фотосессию Cake Smash" cta_link="https://www.lastefoto.ee/ru/#contact" cta_new_tab="true" >}}

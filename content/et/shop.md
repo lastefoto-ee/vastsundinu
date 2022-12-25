@@ -30,7 +30,7 @@ _soovi korral piltide valik toimub Tellija poolt_
 <input type="hidden" name="amount" value="160">
 <input type="hidden" name="paymentId" value="VastS">
 <input type="hidden" name="donate" value="false">
-Olen lugenud ja nõustun veebilehe <a href="https://www.vastsündinu.ee/terms/">müügitingimustega</a>: <input type="checkbox" id="myCheck" name="test" required><br />
+Olen lugenud ja nõustun veebilehe <a href="https://www.lastefoto.ee/terms/">müügitingimustega</a>: <input type="checkbox" id="myCheck" name="test" required><br />
 <input type="submit" value="Osta 160€ eest">
 </form>
 
@@ -54,7 +54,7 @@ _soovi korral piltide valik toimub Tellija poolt_
 <input type="hidden" name="amount" value="250">
 <input type="hidden" name="paymentId" value="VastM">
 <input type="hidden" name="donate" value="false">
-Olen lugenud ja nõustun veebilehe <a href="https://www.vastsündinu.ee/terms/">müügitingimustega</a>: <input type="checkbox" id="myCheck" name="test" required><br />
+Olen lugenud ja nõustun veebilehe <a href="https://www.lastefoto.ee/terms/">müügitingimustega</a>: <input type="checkbox" id="myCheck" name="test" required><br />
 <input type="submit" value="Osta 250€ eest">
 </form>
 
@@ -79,6 +79,6 @@ _soovi korral piltide valik toimub Tellija poolt_
 <input type="hidden" name="amount" value="385">
 <input type="hidden" name="paymentId" value="VastL">
 <input type="hidden" name="donate" value="false">
-Olen lugenud ja nõustun veebilehe <a href="https://www.vastsündinu.ee/terms/">müügitingimustega</a>: <input type="checkbox" id="myCheck" name="test" required><br />
+Olen lugenud ja nõustun veebilehe <a href="https://www.lastefoto.ee/terms/">müügitingimustega</a>: <input type="checkbox" id="myCheck" name="test" required><br />
 <input type="submit" value="Osta 385€ eest">
 </form>

@@ -151,7 +151,7 @@ Fotosessiioni kestuse valikul pea meeles, et uue keskkonna ja fotograafiga harju
 Kõik oleneb sellest, kuidas Sa end tunned ja kui aktiivne oled. Mõned tulevased emad väsivad kiiresti ja vajavad sageli puhkust. Ja on neid, kellel on energia täies hoos ja nad on pikaks pildistamiseks valmis. Seega juhindu iseendast. Keskmiselt saab tunnise fotosessiooni jooksul kasutada 2-3 set-up'i.
 
 # Milliseid riideid valida fotosessiooniks?
-See võib olla nii ärikleidid kui ka õhukestest kangastest, pitsidega, lendava siluetiga kleidid. Või äkki mugavad teksad, lühikesed püksid, särgid, pidžaamad. Oluline on, et tunneksid end nendes riietes vabalt ja kergelt, siis jäävad fotod loomulikud. Sobiva riietuse kohta saad täpsemalt lugeda artiklist [Mida raseduse pildistamisel selga panna](https://www.vastsündinu.ee/post/mida-beebiootuse-fotosessioonile-selga-panna/)
+See võib olla nii ärikleidid kui ka õhukestest kangastest, pitsidega, lendava siluetiga kleidid. Või äkki mugavad teksad, lühikesed püksid, särgid, pidžaamad. Oluline on, et tunneksid end nendes riietes vabalt ja kergelt, siis jäävad fotod loomulikud. Sobiva riietuse kohta saad täpsemalt lugeda artiklist [Mida raseduse pildistamisel selga panna](https://www.lastefoto.ee/post/mida-beebiootuse-fotosessioonile-selga-panna/)
 
 {{< gallery album="post-beebiootuse-fotosessioon-2 copy" >}}
 
@@ -178,4 +178,4 @@ Igasuguseid! Aksessuaarid on tere tulnud kõikidele fotodele! Nad võivad muuta 
 
 {{< gallery album="post-beebiootuse-fotosessioon-4" >}}
 
-{{< cta cta_text="Broneeri fotosessioon" cta_link="https://www.vastsündinu.ee/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Broneeri fotosessioon" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}

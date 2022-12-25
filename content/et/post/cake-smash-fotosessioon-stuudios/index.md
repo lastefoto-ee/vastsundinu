@@ -95,4 +95,4 @@ Kui laps vett ei karda, siis pärast tordiga pildistamist liigume edasi veeprots
 
 {{< figure src="./cake-smash-fotosessioon-7.jpg" title="Cake Smash fotosessioon Tallinna stuudios" >}}
 
-{{< cta cta_text="Telli Cake Smash fotosessioon" cta_link="https://www.vastsündinu.ee/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Telli Cake Smash fotosessioon" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}

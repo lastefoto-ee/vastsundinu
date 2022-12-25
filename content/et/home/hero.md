@@ -13,12 +13,12 @@ hero_media: 'hero3.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://www.vastsündinu.ee/project/esimene-eluaasta/'
+  url: 'https://www.lastefoto.ee/project/esimene-eluaasta/'
   label: Beebi Esimene Eluaasta
   icon_pack: fas
   icon: baby
 cta_alt:
-  url: 'https://www.vastsündinu.ee/project/vastsundinud/'
+  url: 'https://www.lastefoto.ee/project/vastsundinud/'
   label:  või vaata vastsündinu fotosessiooni pakette
 
 # Note. An optional note to show underneath the links.

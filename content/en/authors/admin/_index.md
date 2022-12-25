@@ -11,7 +11,7 @@ role: Newborn and pregnancy photographer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: "https://www.vastsündinu.ee/en/"
+  url: "https://www.lastefoto.ee/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hello! I'm Viktoria, a newborn and maternity photographer from Tallinn, Estonia. I've been photographing babies since 2016.

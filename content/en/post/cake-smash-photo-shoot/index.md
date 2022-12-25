@@ -95,4 +95,4 @@ If the baby is not afraid of water, then after the photos with the cake, we move
 
 {{< figure src="./cake-smash-photo-shoot-7.jpg" title="Cake Smash photo shoot in the studio" >}}
 
-{{< cta cta_text="Book Cake Smash photo shoot" cta_link="https://www.vastsündinu.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book Cake Smash photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}

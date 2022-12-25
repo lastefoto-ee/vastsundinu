@@ -11,7 +11,7 @@ role: Фотограф новорожденных и беременных
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lastefoto.ee
-  url: "https://www.vastsündinu.ee/ru/"
+  url: "https://www.lastefoto.ee/ru/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Фотограф новорожденных и беременных в Таллине создаст красивую и неповторимую историю вашей семьи.

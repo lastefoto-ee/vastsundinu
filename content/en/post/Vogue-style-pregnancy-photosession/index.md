@@ -34,7 +34,7 @@ links:
   - icon_pack: fab
     icon: link
     name: Vogue style pregnancy photo shoot
-    url: 'https://www.vastsündinu.ee/en/post/vogue-style-pregnancy-photo-session/'
+    url: 'https://www.lastefoto.ee/en/post/vogue-style-pregnancy-photo-session/'
 
 ---
 It is ve-e-ery beautiful: only a pregnant woman and her tummy...

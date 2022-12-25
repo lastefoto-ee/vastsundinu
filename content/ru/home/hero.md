@@ -12,12 +12,12 @@ hero_media: 'hero3.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://www.vastsündinu.ee/ru/project/rasti-so-mnoi/'
+  url: 'https://www.lastefoto.ee/ru/project/rasti-so-mnoi/'
   label: Первый год жизни
   icon_pack: fas
   icon: baby
 cta_alt:
-  url: 'https://www.vastsündinu.ee/ru/project/novorozhdjonnye/'
+  url: 'https://www.lastefoto.ee/ru/project/novorozhdjonnye/'
   label:  или ознакомься с пакетами фотосессии новорожденных 
 
 # Note. An optional note to show underneath the links.

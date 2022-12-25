@@ -68,4 +68,4 @@ It was not possible to make a photo shoot of a newborn during the recommended pe
 
 {{< figure src="./newborn-photo-shoot-4.jpg" title="Newborn photo shoot in the studio in Tallinn" >}}
 
-{{< cta cta_text="Book newborn photo shoot" cta_link="https://www.vastsündinu.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book newborn photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}

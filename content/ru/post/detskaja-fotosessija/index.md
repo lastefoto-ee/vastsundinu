@@ -50,7 +50,7 @@ categories:
 
 Хотите такие же кадры для себя или для своего подросшего малыша? 
 
-{{< cta cta_text="Записывайтесь на фотосессию" cta_link="https://www.vastsündinu.ee/ru/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Записывайтесь на фотосессию" cta_link="https://www.lastefoto.ee/ru/#contact" cta_new_tab="true" >}}
 
 {{< figure src="./fotosessija-v-stile-vogue-1.jpg" title="Фотосессия в стиле Vogue в Таллинне" >}}
 {{< figure src="./fotosessija-v-stile-vogue-2.jpg" title="Детская фотосессия в студии" >}}
