@@ -38,6 +38,7 @@ tags:
   - newborn photo shoot
   - newborn session
   - newborn
+  - newborn photographer
 
 categories:
   - newborn
