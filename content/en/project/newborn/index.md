@@ -35,13 +35,15 @@ Price includes:
 1. 2-3 different set-ups for the baby;
 2. a family photo. Snapshots with family members are not included in this package;
 3. 17 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
-4. individual retouching of each photo (removal of baby acne, flaky skin, etc.);
+4. individual retouching of each photo (removal of baby acne, flaky skin, etc.). Raw images are not included in the package price but can be purchased additionally;
 5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;
 7. taking photos in the LasteFoto Studio for 1-2,5 hours (depending on the mood of the little model);
 8. a web gallery of retouched images, which you can also share if you wish;
 9. a USB memory stick with all retouched photos in individually designed package;
 10. retouching of additional photos 10 € / photo;
+
+{{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 {{< figure src="newborn-photo-shoot-in-tallinn-minipackage.jpg" title="Newborn photo shoot in Tallinn, sample images" >}}
 
@@ -53,13 +55,15 @@ Price includes:
 1. 2-3 different set-ups for the baby;
 2. photos with family members separately and a family photo;
 3. 25 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
-4. individual retouching of each photo (removal of baby acne, flaky skin, etc.);
+4. individual retouching of each photo (removal of baby acne, flaky skin, etc.). Raw images are not included in the package price but can be purchased additionally;
 5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;
 7. taking photos in the LasteFoto Studio for 2-4 hours (depending on the mood of the little model);
 8. a web gallery of retouched images, which you can also share if you wish;
 9. a USB memory stick with all retouched photos in individually designed package;
 10. retouching of additional photos 10 € / photo;
+
+{{< cta cta_text="💛 Order your photo shoot right now!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 ## Newborn Photo shoot outside of Estonia
 
@@ -76,6 +80,8 @@ The price and conditions of the photo shoot are available on request.
 - you can make tea in the studio, for longer shoots take a small snack with you.
 - parents are welcome to send us their image and colour wishes, but please note that we unfortunately cannot guarantee that they will come true. All newborns are different and not all are willing to take the same poses or sleep deeply enough during the photo shoot.
 - during the photo shoot, parents are also responsible for the older siblings who are in the studio.
+
+{{< cta cta_text="💛 Capture the priceless moments!" cta_link="/en/#contact" cta_new_tab="true" >}}
 
 {{< figure src="newborn-photo-shoot-50.jpg" title="Newborn photo shoot in Tallinn" >}}
 {{< figure src="newborn-photo-shoot-49.jpg" title="Newborn photo shoot in studio" >}}
