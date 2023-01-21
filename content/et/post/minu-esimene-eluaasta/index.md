@@ -35,6 +35,7 @@ authors:
   - admin
 
 tags:
+  - beebi esimene eluaasta
   - beebi
   - vastsündinud
   - cake smash
