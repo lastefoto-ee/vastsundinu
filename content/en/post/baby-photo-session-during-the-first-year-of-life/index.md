@@ -82,4 +82,4 @@ Photographing a baby at 8-9 months is difficult because they are constantly tryi
 {{< figure src="./photobook-2.jpg" title="Photobook, details" >}}
 {{< figure src="./photobook-3.jpg" title="Photobook, detais" >}}
 
-{{< cta cta_text="Book newborn photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book baby photo session" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}

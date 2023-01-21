@@ -82,4 +82,4 @@ Beebid õpivad 6-7 kuu vanuselt iseseisvalt istuma, mis suurendab oluliselt olem
 {{< figure src="./fotoraamat-2.jpg" title="Fotoraamat, detaalid" >}}
 {{< figure src="./fotoraamat-3.jpg" title="Fotoraamat, detaalid" >}}
 
-{{< cta cta_text="Broneeri aeg vastsündinu fotosessioonile" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Broneeri aeg beebi fotosessioonile" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}

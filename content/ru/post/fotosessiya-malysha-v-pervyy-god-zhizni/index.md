@@ -82,4 +82,4 @@ categories:
 {{< figure src="./foto-kniga-2.jpg" title="Фото-книга, детали" >}}
 {{< figure src="./foto-kniga-3.jpg" title="Фото-книга, детали" >}}
 
-{{< cta cta_text="Записаться на фотосессию новорожденного" cta_link="https://www.lastefoto.ee/ru/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Записаться на фотосессию малыша" cta_link="https://www.lastefoto.ee/ru/#contact" cta_new_tab="true" >}}
