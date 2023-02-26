@@ -56,13 +56,13 @@ Lisaks kasvab beebi kõik riided, mänguasjad või muud sarnased esemed väga ki
 
 {{< figure src="./vastsundinu-pildistamine-1.jpg" title="Vastsündinu pildistamine Tallinnas" >}}
 
-# Vastsündinu või vanema beebi jaoks mõeldud fotosessiooni kinkekaart on ideaalne kingitus beebi sünni puhul.
+## Vastsündinu või vanema beebi jaoks mõeldud fotosessiooni kinkekaart on ideaalne kingitus beebi sünni puhul.
 
 Kinkekaart muutub tõeliselt väärtuslikuks kingituseks siis, kui vanemad saavad ise otsustada, millal ja millistel tingimustel seda kasutada. Ühel on lihtsam kasutada professionaalse vastsündinute fotograafi. Mõned pered eelistavad kahtlemata, et vastsündinu esimene pildistamine toimuks kodus. Selline paindlikkus on kindlasti võimalik, nagu ka mitmed võimalused valmis fotode üleandmiseks, beebi esimese fotoraamatu koostamiseks ja muud võimalused, mida piirab vaid kinkekaardi nominaalsumma. Suurim vabadus kinkekaardi kasutamisel muudab selle ideaalseks kingituseks vastsündinud beebiga perele, eriti kuna sertifikaadi kehtivusaeg võib kesta kuni aasta.
 
 {{< figure src="./vastsundinu-pildistamine-2.jpg" title="Vastsündinu pildistamine stuudios" >}}
 
-# Kas kingitus vastsündinu sünniks peaks olema üllatus või mitte?
+## Kas kingitus vastsündinu sünniks peaks olema üllatus või mitte?
  
 Oluline on hoolikalt läbi mõelda, kas üllatada vanemaid vastsündinu sünni puhul kingitusega või oleks parem neile eelnevalt teada anda, et soovite neile vastsündinu fotosessiooni kinkekaardi kinkida. On mitmeid põhjusi, miks on parem uutele vanematele oma soovist teatada, et vältida ebamugavaid olukordi.
 

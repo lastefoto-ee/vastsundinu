@@ -57,12 +57,12 @@ Fotosessioon vastsündinuga või fotosessioon 3, 6 või 9 kuu vanuselt - kumb on
 
 {{< figure src="./beebi-fotosessioon-1.jpg" title="Beebi fotosessioon Tallinnas" >}}
 
-# Beebi fotosessioon - olulised detailid
+## Beebi fotosessioon - olulised detailid
 Kuigi vanemad tunnevad sageli, et see on "liiga vara", on nüüd ideaalne aeg fotosessiooniks, kui teie beebi on just sündinud. Tavaliselt magab beebi rahulikult, nii et ta ei ole isegi teadlik poseerimisest või rekvisiitide vahetamisest. Lisaks on väga oluline ka see, et beebid ei tunne sel ajal sageli koolikuteid.
 
 {{< figure src="./beebi-fotosessioon-2.jpg" title="Beebi fotosessioon" >}}
 
-# Kuidas peaks välja nägema vanema lapsega pildistamine
+## Kuidas peaks välja nägema vanema lapsega pildistamine
 Üle nelja nädala vanuste beebide puhul on soovitav fotosessiooni edasi lükata kuni kolme kuu vanuseni. Selles vanuses võivad koolikud olla suhteliselt sagedased, mis muudab magamisharjumused häirivamaks ja lühendab aega, mille jooksul beebi korralikuks pildistamiseks ärkvel on.
 
 {{< figure src="./beebi-fotosessioon-3.jpg" title="Beebi fotosessioon stuudios Tallinnas" >}}

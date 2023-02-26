@@ -55,13 +55,13 @@ Additionally, the newborn will outgrow any clothing, toys, or other items of a s
 
 {{< figure src="./newborn-photo-session-1.jpg" title="Newborn photo session in Tallinn" >}}
 
-# A photo shoot gift certificate for a newborn or older baby is the ideal baby arrival gift.
+## A photo shoot gift certificate for a newborn or older baby is the ideal baby arrival gift.
  
 A gift certificate becomes a truly valuable gift when the parents may decide when and under what conditions to use it. Others will find it more comfortable to employ a professional newborn photographer. Some families will undoubtedly prefer the baby's first photo shoot to take place at home. Such flexibility is certainly conceivable, as are several possibilities for delivering finished photos, creating the baby's first photo book, and other options, which are only constrained by the nominal amount of the gift certificate. The greatest amount of freedom in using a gift certificate makes it the ideal present for a family with a newborn baby, especially since the certificate's validity can last up to a year.
 
 {{< figure src="./newborn-photo-session-2.jpg" title="Newborn photo session in the studio" >}}
 
-# Should a gift for a baby's birth be a surprise or not?
+## Should a gift for a baby's birth be a surprise or not?
  
 It is important to think carefully about whether you should surprise the parents with a gift for the arrival of the baby or if it would be better to let them know in advance that you would want to give them a gift certificate for a newborn photo shoot. There are various reasons why it is preferable to inform new parents of your wish in order to avoid uncomfortable circumstances.
 
