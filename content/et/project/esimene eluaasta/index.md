@@ -50,7 +50,7 @@ Hind sisaldab:
 15. teie valikul üks foto prinditud lõuendile raami mõõtudega 40х60cm;
 16. teie poolt valitud parimate fotode alusel koostatud “Premium” klassi fotoraamat, mõõtudega 30х30cm (15 lehte).
 
-{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="/project/vastsundinud/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="false" >}}
 
 _Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
 

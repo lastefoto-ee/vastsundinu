@@ -104,6 +104,6 @@ Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios.
 
 Kohtumiseni fotosessioonil!
 
-{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="/project/vastsundinud/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="false" >}}
 
 _Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
