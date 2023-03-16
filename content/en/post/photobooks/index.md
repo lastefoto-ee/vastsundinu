@@ -61,4 +61,4 @@ Overall, a high-quality photobook provides customers with a beautiful and lastin
 
 {{< video library="true" src="fotoraamatud.mp4" controls="yes" >}}
 
-{{< cta cta_text="Book photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book photo shoot" cta_link="https://www.vastsündinu.ee/en/#contact" cta_new_tab="true" >}}

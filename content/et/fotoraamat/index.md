@@ -58,4 +58,4 @@ Miks oodata? Võtke meiega ühendust juba täna, et saada rohkem teavet meie fot
 
 {{< video library="true" src="fotoraamat.mp4" controls="yes" >}}
 
-{{< cta cta_text="Broneeri aeg fotosessioonile" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Broneeri aeg fotosessioonile" cta_link="https://www.vastsündinu.ee/#contact" cta_new_tab="true" >}}

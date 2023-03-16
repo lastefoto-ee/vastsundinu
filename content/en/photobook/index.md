@@ -57,4 +57,4 @@ So why wait? Contact us today to learn more about our photobook printing service
 
 {{< video library="true" src="fotoraamat.mp4" controls="yes" >}}
 
-{{< cta cta_text="Book photo shoot" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Book photo shoot" cta_link="https://www.vastsündinu.ee/en/#contact" cta_new_tab="true" >}}

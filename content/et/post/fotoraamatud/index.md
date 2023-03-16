@@ -62,4 +62,4 @@ Kõrge kvaliteediga fotoraamatu tellimine pakub kliendile mitmeid eeliseid, seal
 
 Kokkuvõttes pakub kõrge kvaliteediga fotoraamat kliendile kauni ja kestva viisi oma mälestuste säilitamiseks, fotode esitamiseks ja oma lugu teiste inimestega jagamiseks.
 
-{{< cta cta_text="Broneeri aeg fotosessioonile" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Broneeri aeg fotosessioonile" cta_link="https://www.vastsündinu.ee/#contact" cta_new_tab="true" >}}

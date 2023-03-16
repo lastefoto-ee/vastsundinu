@@ -57,4 +57,4 @@ tags:
 
 {{< video library="true" src="fotoraamat.mp4" controls="yes" >}}
 
-{{< cta cta_text="Записаться на фотосессию" cta_link="https://www.lastefoto.ee/ru/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Записаться на фотосессию" cta_link="https://www.vastsündinu.ee/ru/#contact" cta_new_tab="true" >}}
