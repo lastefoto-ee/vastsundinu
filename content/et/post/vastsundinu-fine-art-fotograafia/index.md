@@ -1,5 +1,5 @@
 ---
-title: "Vastsündinu Fine Art Fotograafia: Ilusa kunsti loomine"
+title: "Vastsündinu Fine Art Fotograafia: Kauni pildi loomine"
 subtitle: Avastage vastsündinute fotograafia maailma. Uurige, kuidas luua kaunist ja ajatut fotokunsti oma vastsündinutest.
 
 # Summary for listings and search engines

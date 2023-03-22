@@ -32,9 +32,6 @@ profile: false
 
 authors:
   - admin
-
-tags:
-  - newborn photography
 ---
 ## Introduction to Fine Art Newborn Photography
 
