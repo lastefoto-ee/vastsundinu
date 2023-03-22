@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Photobook by Viktoria Iljin'
+  caption: 'Fine Art Newborn Photography by Viktoria Iljin'
   focal_point: ""
   placement: 1
   preview_only: false
