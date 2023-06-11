@@ -3,7 +3,7 @@ title: Vastsündinud
 summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2023-03-20T05:53:53+03:00"
+date: "2023-06-11T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -79,6 +79,7 @@ Hind sisaldab:
 
 {{< cta cta_text="💛 Broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
+{{< figure src="vastsundinu-fotosessioon-tallinn-22.jpg" title="Vastsündinu fotosessioon, beebipoiss 12 päeva uus" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-1.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas, beebitüdruk 10 päeva uus" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-2.jpg" title="Imiku pildistamine Tallinnas, beebipoiss 19 päeva uus" >}}
 {{< figure src="vastsundinu-fotosessioon-tallinn-3.jpg" title="Vastsündinu fotosessioon stuudios, beebitüdruk 11 päeva uus" >}}
