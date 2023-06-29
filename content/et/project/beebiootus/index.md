@@ -3,7 +3,7 @@ title: Beebiootus
 summary: fotosessioon Vogue stiilis alates 28. nädalast
 tags:
 - beebiootus
-date: "2022-08-11T09:59:53+03:00"
+date: "2023-06-29T06:59:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -26,92 +26,13 @@ url_video: ""
 slides: ""
 weight: 1
 
-gallery_item:
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-1.jpg
-  caption: Beebiootusefotosessioon Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-2.jpg
-  caption: Beebiootusefotosessioon Tallinnas
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-3.jpg
-  caption: Beebiootuse fotosessioon stuudios
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-4.jpg
-  caption: Vogue stiilis beebiootuse pildistamine
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-5.jpg
-  caption: Beebiootuse pilt Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-6.jpg
-  caption: Beebiootusefotosessioon
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-7.jpg
-  caption: Beebiootuse pildistamine
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-8.jpg
-  caption: Beebiootusefotosessioon Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-9.jpg
-  caption: Beebiootusefotosessioon Tallinnas
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-10.jpg
-  caption: Beebiootuse fotosessioon stuudios
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-11.jpg
-  caption: Vogue stiilis beebiootuse pildistamine
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-12.jpg
-  caption: Beebiootuse pilt Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-13.jpg
-  caption: Beebiootusefotosessioon 
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-14.jpg
-  caption: Beebiootuse pildistamine
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-15.jpg
-  caption: Beebiootusefotosessioon Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-16.jpg
-  caption: Beebiootusefotosessioon Tallinnas
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-17.jpg
-  caption: Beebiootuse fotosessioon stuudios
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-18.jpg
-  caption: Vogue stiilis beebiootuse pildistamine
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-19.jpg
-  caption: Beebiootusefotosessioon 
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-1.jpg
-  caption: Beebiootuse pilt Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-20.jpg
-  caption: Beebiootuse pildistamine
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-21.jpg
-  caption: Beebiootusefotosessioon Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-22.jpg
-  caption: Beebiootusefotosessioon Tallinnas
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-23.jpg
-  caption: Beebiootuse fotosessioon stuudios
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-24.jpg
-  caption: Beebiootusefotosessioon Vogue stiilis
-- album: beebiootus-portfolio
-  image: beebiootuse-fotosessioon-25.jpg
-  caption: Beebiootusefotosessioon Tallinnas
 ---
 > Kui rasedus kulgeb sujuvalt ja komplikatsioonideta, siis ideaalne aeg fotosessiooniks on _28-36 nädalat_. Kui kõht hakkas varakult kasvama või on oodata kaksikuid, saab fotosessiooni teha alates 26. nädalast.
 
 # Beebiootusefotosessioon - Pakett S
 
 * 1-2 erinevat set-upi 
-* 10 digifaili 
+* 5 digifaili 
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
@@ -122,7 +43,7 @@ Fotosessiooni hind **160**€
 
 * 2-3 erinevat set-upi 
 * siluett pildid mustal/valgel taustal
-* 15 digifaili 
+* 12 digifaili 
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
@@ -136,9 +57,20 @@ Fotosessiooni hind **235**€
 * 20 digifaili 
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
-* meik ja lokid (1 inimesele)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
 
 Fotosessiooni hind **345**€
 
-{{< gallery album="beebiootus-portfolio" >}}
+{{< figure src="beebiootuse-fotosessioon-11.jpg" title="Beebiootuse pildistamine stuudios" >}}
+{{< figure src="beebiootuse-fotosessioon-1.jpg" title="Beebiootuse fotosessioon stuudios Tallinnas" >}}
+{{< figure src="beebiootuse-fotosessioon-2.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
+{{< figure src="beebiootuse-fotosessioon-3.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
+{{< figure src="beebiootuse-fotosessioon-4.jpg" title="Beebiootuse fotosessioon stuudios" >}}
+{{< figure src="beebiootuse-fotosessioon-5.jpg" title="Beebiootuse pildistamine stuudios" >}}
+[💛 Broneeri vastsündinu fotosessioon](/#contact)
+{{< figure src="beebiootuse-fotosessioon-6.jpg" title="Beebiootuse fotosessioon stuudios Tallinnas" >}}
+{{< figure src="beebiootuse-fotosessioon-7.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
+{{< figure src="beebiootuse-fotosessioon-8.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
+{{< figure src="beebiootuse-fotosessioon-9.jpg" title="Beebiootuse fotosessioon stuudios" >}}
+{{< figure src="beebiootuse-fotosessioon-10.jpg" title="Beebiootuse pildistamine stuudios" >}}
+[💛 Broneeri vastsündinu fotosessioon](/#contact)
