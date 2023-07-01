@@ -34,7 +34,7 @@ _The ideal time for newborn photography is 5-14 days of age_.
 Price includes:
 1. 2-3 different set-ups for the baby;
 2. a family photo. Snapshots with family members are not included in this package;
-3. 17 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+3. 17 digital and 10 paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
 4. individual retouching of each photo (removal of baby acne, flaky skin, etc.). Raw images are not included in the package price but can be purchased additionally;
 5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;
@@ -54,7 +54,7 @@ _The ideal time for newborn photography is 5-14 days of age_.
 Price includes:
 1. 2-3 different set-ups for the baby;
 2. photos with family members separately and a family photo;
-3. 25 digital and paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
+3. 25 digital and 15 paper images 10x15cm; *If desired, you can choose the images yourself from the pre-edited gallery.*
 4. individual retouching of each photo (removal of baby acne, flaky skin, etc.). Raw images are not included in the package price but can be purchased additionally;
 5. use of various hats, fabrics, baskets. Washing of accessories and fabrics used;
 6. consultation before and accompaniment during the photo shoot;
