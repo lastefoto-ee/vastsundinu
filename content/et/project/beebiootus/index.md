@@ -3,13 +3,13 @@ title: Beebiootus
 summary: fotosessioon Vogue stiilis alates 28. nädalast
 tags:
 - beebiootus
-date: "2023-06-29T06:59:53+03:00"
+date: "2024-01-06T06:59:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Beebiootuse Fotograaf Viktoria Iljin
   focal_point: Smart
 
 links: []
@@ -36,6 +36,10 @@ weight: 1
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 1-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
+* kaasa tuleks võtta nii valget kui musta värvi pesu
+* stuudios on olemas valik kleite, mille kasutamine on sessioonihinna sees
+* pereliikmetele soovitaks kaasa võtta sarnases toonis riided, et perepildid ühtsed välja näeksid
+* lisapildi töötlus 10€ / pilt
 
 Fotosessiooni hind **160**€ 
 
@@ -47,6 +51,10 @@ Fotosessiooni hind **160**€
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
+* kaasa tuleks võtta nii valget kui musta värvi pesu
+* stuudios on olemas valik kleite, mille kasutamine on sessioonihinna sees
+* pereliikmetele soovitaks kaasa võtta sarnases toonis riided, et perepildid ühtsed välja näeksid
+* lisapildi töötlus 10€ / pilt
 
 Fotosessiooni hind **235**€
 
@@ -58,19 +66,29 @@ Fotosessiooni hind **235**€
 * nõustamine enne fotosessiooni ja juhendamine sessiooni ajal
 * 2-tunnine fotosessioon stuudios (stuudio rent on hinna sees)
 * iga foto individuaalne töötlus (muuhulgas venitusarmide, naha defektide jms eemaldust)
+* kaasa tuleks võtta nii valget kui musta värvi pesu
+* stuudios on olemas valik kleite, mille kasutamine on sessioonihinna sees
+* pereliikmetele soovitaks kaasa võtta sarnases toonis riided, et perepildid ühtsed välja näeksid
+* lisapildi töötlus 10€ / pilt
 
 Fotosessiooni hind **345**€
 
-{{< figure src="beebiootuse-fotosessioon-11.jpg" title="Beebiootuse pildistamine stuudios" >}}
-{{< figure src="beebiootuse-fotosessioon-1.jpg" title="Beebiootuse fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebiootuse-fotosessioon-2.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
-{{< figure src="beebiootuse-fotosessioon-3.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
-{{< figure src="beebiootuse-fotosessioon-4.jpg" title="Beebiootuse fotosessioon stuudios" >}}
-{{< figure src="beebiootuse-fotosessioon-5.jpg" title="Beebiootuse pildistamine stuudios" >}}
-[💛 Broneeri vastsündinu fotosessioon](/#contact)
-{{< figure src="beebiootuse-fotosessioon-6.jpg" title="Beebiootuse fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebiootuse-fotosessioon-7.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
-{{< figure src="beebiootuse-fotosessioon-8.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
-{{< figure src="beebiootuse-fotosessioon-9.jpg" title="Beebiootuse fotosessioon stuudios" >}}
-{{< figure src="beebiootuse-fotosessioon-10.jpg" title="Beebiootuse pildistamine stuudios" >}}
-[💛 Broneeri vastsündinu fotosessioon](/#contact)
+{{< figure src="beebiootuse-pildistamine-16.jpg" title="Beebiootuse fotosessioon stuudios Tallinnas" >}}
+{{< figure src="beebiootuse-pildistamine-15.jpg" title="Lapseootusefotosessioon Vogue stiilis" >}}
+{{< figure src="beebiootuse-pildistamine-14.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
+{{< figure src="beebiootuse-pildistamine-13.jpg" title="Lapseootuse fotosessioon stuudios" >}}
+{{< figure src="beebiootuse-pildistamine-12.jpg" title="Beebiootuse pildistamine stuudios" >}}
+{{< figure src="beebiootuse-pildistamine-11.jpg" title="Lapseootuse pildistamine stuudios" >}}
+[💛 Broneeri beebiootuse fotosessioon](/#contact)
+{{< figure src="beebiootuse-pildistamine-1.jpg" title="Beebiootuse fotosessioon stuudios Tallinnas" >}}
+{{< figure src="beebiootuse-pildistamine-2.jpg" title="Lapseootusefotosessioon Vogue stiilis" >}}
+{{< figure src="beebiootuse-pildistamine-3.jpg" title="Beebiootuse pildistamine Tallinnas" >}}
+{{< figure src="beebiootuse-pildistamine-4.jpg" title="Lapseootuse fotosessioon stuudios" >}}
+{{< figure src="beebiootuse-pildistamine-5.jpg" title="Beebiootuse pildistamine stuudios" >}}
+[💛 Broneeri beebiootuse fotosessioon](/#contact)
+{{< figure src="beebiootuse-pildistamine-6.jpg" title="Lapseootuse fotosessioon stuudios Tallinnas" >}}
+{{< figure src="beebiootuse-pildistamine-7.jpg" title="Beebiootusefotosessioon Vogue stiilis" >}}
+{{< figure src="beebiootuse-pildistamine-8.jpg" title="Lapseootuse pildistamine Tallinnas" >}}
+{{< figure src="beebiootuse-pildistamine-9.jpg" title="Beebiootuse fotosessioon stuudios" >}}
+{{< figure src="beebiootuse-pildistamine-10.jpg" title="Beebiootuse pildistamine stuudios" >}}
+[💛 Broneeri beebiootuse fotosessioon](/#contact)
